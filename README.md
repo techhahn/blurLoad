@@ -16,7 +16,7 @@ Small image thumbnail is drawn on to the canvas and added blur, if the image com
 - For loading image as background-image
 ``` HTML
     <div class="blur-load">
-        <span class="bg-small" data-url="bug-image.jpg" style="background-image: url('small-image.jpg')"></span>
+        <span class="bg-small" data-url="big-image.jpg" style="background-image: url('small-image.jpg')"></span>
         <div class="bg-lg"></div>
         <canvas class="bg-blur"></canvas>
     </div>
