@@ -22,7 +22,7 @@ Small image thumbnail is drawn on to the canvas and added blur, if the image com
     </div>
 ```
 
-- To Call the script use on Dom Ready
+- Call the script on Dom Ready
 ```javascript
   $('.blur load').blurLoad(blur);
 ```
